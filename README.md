@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working as Software Engineer At [Logidots](https://logidots.com/)
 
-- 🌱 I’m currently learning **TypeScript, NodeJS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jobin-Jas](https://github.com/Jobin-Jas)
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **PHP, Laravel, TypeScript, NodeJS**
 
 - 📫 How to reach me **jobin8157@gmail.com**
 
